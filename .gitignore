@@ -1,0 +1,15 @@
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+*credentials*.json
+n8n-data/
+.n8n/
+database.sqlite
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
+*.local.json
+exports/
